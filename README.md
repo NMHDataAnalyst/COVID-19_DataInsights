@@ -1,1 +1,1 @@
-# COVID-19_DataInsights
+# COVID-19 DataInsights
